@@ -1,0 +1,105 @@
+{% load static %}
+<html>
+      <head>
+            <title>TailorKart</title>
+            <style>
+                  body{
+                        background: linear-gradient(white,#ed477f);
+                        background-position: 0%;
+                        text-align: right;
+                        align-items: right;
+                        padding-top: 2%;
+                        text-transform:capitalize ;
+                  }
+                  header{
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size:1cm;
+                        font-weight: bolder;
+                        text-align: center;
+                        color: #ed477f;
+                  }
+                  section{
+                        padding-top:3%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+                  #state{
+                        text-transform: capitalize;
+                  }
+                  .bottom{
+                        padding: 10px 10px 10px 10px;
+                        height: 30px;
+                        text-align: center;
+                        font-size: 20%;
+                        background-color: #ed477f;
+                  }
+                  #but1{
+                        width:100%;
+                        height: 30px;
+                        color: white;
+                        border:0;
+                        font-size: 0.7cm;
+                        background-color: #ed477f;
+                        text-transform: capitalize;
+                  }
+                  .image{
+                        width: 100%;
+                        height: 80vh;
+                  }
+                  .main{
+                        background-color: whitesmoke;
+                        height: 70vh;
+                        padding-top: 50px;
+                        font-size: 20px;
+                  }
+                  .bottom:hover{
+                        background-color: rgb(44, 231, 44);
+                  }
+                  #but1:hover{
+                        background-color:rgb(44, 231, 44) ;
+                        color: red;
+                  }
+                  .msg{
+                        padding-top: 20px;
+                        font-size: 30px;
+                        text-align: center;
+                        color: blue;
+                  }
+            </style>
+      </head>
+      <body>
+            <header>
+                  <div>Register Here</div>
+                  <div class="msg">
+                  {% for msg in messages%}
+                        {{msg}}
+                  {% endfor %}
+            </div> 
+            </header>
+            <section>
+                  <div>
+                     <img src="{% static 'shop.jpg' %}" alt="Fashion Designer at Work" class="image">
+                  </div>
+                  <div><form action="register" method="post">
+                        {% csrf_token %}
+                        <fieldset class="main">
+                              <label for="name1">First name :</label>
+                              <input type="text" name="first_name"><br><br><br>
+                              <label for="name2">Last name :</label>
+                              <input type="text" name="last_name"><br><br><br>
+                              <label for="name3">User name :</label>
+                              <input type="text" name="username"><br><br><br>
+                              <label for="email">Email id :</label>
+                              <input type="email" name="email"><br><br><br>
+                              <label for="pass">Password:</label>
+                              <input type="password" name="password1"><br><br><br>
+                              <label for="pass2">Confirm Password:</label>
+                              <input type="password" name="password2"><br><br><br>
+                              <fieldset class="bottom">
+                                    <button id="but1">Register</button><br><br>
+                              </fieldset>
+                        </fieldset>
+                  </form></div>
+            </section>  
+      </body>
+</html>

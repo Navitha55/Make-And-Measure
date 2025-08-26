@@ -1,0 +1,140 @@
+{% load static %}
+<html>
+      <head>
+            <title>TailorKart</title>
+            <style>
+                  body{
+                        background: linear-gradient(white,#eca5bd);
+                        text-align: center;
+                        align-items: center;
+                        padding-top: 6%;
+                        backdrop-filter: blur(10px);
+                  }
+                  header{
+                        background: #ed477f;
+                        background-clip: text;
+                        color: transparent;
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size:2cm;
+                        font-weight: bolder;
+                        text-align: center;
+                        text-transform:capitalize ;
+                  }
+                  section{
+                        padding-left: 35%;
+                        padding-right: 35%;
+                        padding-top: 20px;
+                  }
+                  .main{
+                        background-color: white;
+                        padding: 20px 20px 20px 20px;
+                  }
+                  .heading{
+                        color: #ed477f;
+                        background: #f0d5de;
+                        padding: 10px 10px 10px 10px;
+                        height: 30px;
+                        text-align: left;
+                        font-size: 1.1rem;
+                        font-weight: 900;
+                        text-transform:capitalize ;
+                  }
+                  .detail{
+                        background-color:#f0d5de;
+                        padding: 10px 10px 10px 10px;
+                        font-weight: 500;
+                        text-transform:capitalize ;
+                  }
+                  #user{
+                        width: 250px;
+                        height:29px ;
+                        border-style: groove;
+                  }
+                  #pass{
+                        border-color:  rgb(227, 240, 252);
+                        outline: 0;
+                        border: 0;
+                  }
+                  input{
+                        background-color: rgb(227, 240, 252);
+                  }
+                  .password{
+                        margin-left: 66px;
+                        width: 247px;
+                        height: 25px;
+                        display: flex;
+                        border-style:groove ;
+                        border-color: rgb(165, 161, 161);
+                        justify-content:space-between;
+                        align-items: center;
+                        background-color:rgb(227, 240, 252);
+                  }
+                  .password img{
+                        width: 22px;
+                        height: 20px;
+                        cursor: pointer;
+                        padding-right: 5px;
+                  }
+                  #but1{
+                        margin-top: 15px;
+                        height: 35px;
+                        border-radius: 7px;
+                        text-transform:capitalize ;
+                  }
+                  .links{
+                        text-transform: capitalize;
+                  }
+                  .msg{
+                        padding-top: 20px;
+                        font-size: 30px;
+                        text-align: center;
+                        color: blue;
+                  }
+            </style>
+      </head>
+      <body>
+            <header>
+                  Welcome to Make & Measure
+                  <div class="msg">
+                        {% for msg in messages%}
+                              {{msg}}
+                        {% endfor %}
+                  </div>
+            </header>
+            <section>
+                  <fieldset class="main">
+                        <fieldset class="heading">
+                              login here <br><br>
+                        </fieldset> <br>
+                        <form action="login" method="post">
+                              {% csrf_token %}
+                              <fieldset class="detail">
+                                    <input type="text" name="username" placeholder="User Id" id="user"><br><br>
+                                    <div class="password">
+                                          <input type="password" name="password" placeholder="Password" id="pass"><br><br>
+                                          <img src="{% static 'eye-close.png' %}" id="eyeicon">
+                                    </div>
+                                    <button id="but1">Login</button><br><br>
+                                    <div class="links">
+                                          <a href="register">Register here</a>
+                                    </div>     
+                              </fieldset>
+                        </form>
+                  </fieldset>
+            </section>
+      </body>
+      <script>
+            let eye = document.getElementById("eyeicon");
+            let password = document.getElementById("pass");
+            eye.onclick = function(){
+                  if(password.type == "password"){
+                        password.type = "text";
+                        eyeicon.src = "{% static 'eye-open.png' %}";
+                  }
+                  else{
+                        password.type = "password";
+                        eyeicon.src = "{% static 'eye-close.png' %}";
+                  }
+            }
+      </script>
+</html>
