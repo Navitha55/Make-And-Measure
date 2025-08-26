@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Body Measurement Form</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f2f2f2;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(#ffe7e7,rgb(254, 247, 247));
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 50px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #ed477f;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 15px;
+    }
+
+    label {
+      margin-bottom: 5px;
+      font-weight: 600;
+      color: #555;
+    }
+
+    input[type="text"],
+    input[type="number"],
+    select {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+
+    input[type="submit"] {
+      width: 100%;
+      padding: 12px;
+      background-color: #ed477f;
+      color: white;
+      font-size: 16px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+
+    @media (max-width: 600px) {
+      .form-group {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Body Measurement Form</h2>
+    <form action="{% url 'measurement_form' %}" method="post">
+      {% csrf_token %}
+      <div class="form-group">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" required />
+      </div>
+
+      <div class="form-group">
+        <label for="height">Height (cm):</label>
+        <input type="number" id="height" name="height" min="0" step="0.1" required />
+      </div>
+
+      <div class="form-group">
+        <label for="weight">Weight (kg):</label>
+        <input type="number" id="weight" name="weight" min="0" step="0.1" required />
+      </div>
+
+      <div class="form-group">
+        <label for="chest">Chest (cm):</label>
+        <input type="number" id="chest" name="chest" min="0" step="0.1" />
+      </div>
+
+      <div class="form-group">
+        <label for="waist">Waist (cm):</label>
+        <input type="number" id="waist" name="waist" min="0" step="0.1" />
+      </div>
+
+      <div class="form-group">
+        <label for="hips">Hips (cm):</label>
+        <input type="number" id="hips" name="hips" min="0" step="0.1" />
+      </div>
+
+      <div class="form-group">
+        <label for="shoulders">Shoulder Width (cm):</label>
+        <input type="number" id="shoulders" name="shoulders" min="0" step="0.1" />
+      </div>
+
+      <div class="form-group">
+        <label for="armLength">Arm Length (cm):</label>
+        <input type="number" id="armLength" name="armLength" min="0" step="0.1" />
+      </div>
+
+
+      <div class="form-group">
+        <label for="description">Additional requirements:</label>
+        <input type="text" id="description" name="description" />
+      </div>
+
+      <input type="hidden" name="fabric" value="{{ request.session.selected_fabric }}">
+      <input type="hidden" name="dress_type" value="{{ request.session.selected_dress }}">
+
+      <input type="submit" value="Submit Measurements" />
+    </form>
+  </div>
+</body>
+</html>

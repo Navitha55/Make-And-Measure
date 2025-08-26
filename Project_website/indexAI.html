@@ -1,0 +1,158 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Fashion Design Website</title>
+        <link rel="stylesheet" href="{% static 'AI.css' %}">
+        <style>
+            #user{
+                color:#ed477f;
+                font-weight: bold;
+                font-size: 18px;
+            }
+            .active{
+                background-color:#ed477f;
+                padding: 10px;
+                border-radius: 10px;
+                color: white;
+            }
+            html{
+                scroll-behavior: smooth;
+            }
+            #about{
+                text-align: center;
+                align-items: center;
+                justify-items: center;
+                padding-top: 20px;
+                height: 80vh;
+            }
+            #title{
+                color:#ed477f;
+                font-weight: 900;
+                font-size: 80px;
+                font-family:cursive;
+            }
+            #subtitle{
+                font-family: 'Courier New', Courier, monospace;
+                color: black;
+                font-weight: 500;
+                font-size: 20px;
+            }
+            #para{
+                box-sizing: border-box;
+                width:900px;
+            }
+            .foot{
+                background-color: #f0d5de;
+                width: 100%;
+            }
+            .foot ul{
+                list-style: none;
+                display: flex;
+                gap: 10px;
+                justify-content: center;
+            }
+            .foot p{
+                font-size: 10px;
+                font-weight: 300;
+            }
+            .foot ul li{
+                font-size: 12px;
+                border-bottom: 3px solid transparent;
+                transition: 0.3s ease;
+            }
+            .foot ul li:hover{
+                color:#ed477f;
+                border-bottom: 3px solid;
+            }
+            header{
+                position: fixed;
+                width:97%;
+                height: 10px;
+            }
+            .hero{
+                height:100vh;
+            }
+            .services {
+                height: 100vh;
+                padding-top: 130px;
+            }
+            .hero-image img {
+                margin-left: 100px;
+                border-radius: 10px;
+                height: 300px;
+                width: 450px;
+            }
+            .copy{
+                margin-top: 20px;
+                background: #ed477f;
+                text-align: center;
+                color: white;
+                height: 20px;
+                padding: 10px;
+            }
+            .service-item a{
+                text-decoration: none;
+            }
+            .service-item a p:hover{
+                color:#ed477f;
+                text-decoration: underline;
+            }
+        </style>
+    </head>
+    <body>
+        <header id="header">
+            <div class="logo"><span id="M">M</span>ake & <span id="M">M</span>easure</div>
+            <nav>
+                <ul>
+                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About</a></li>
+                    {% if user.is_authenticated %}
+                    <li><a href="accounts/logout">Logout</a></li>
+                    <li id="user">{{user.username}}</li>
+                    {% else %}
+                    <li><a href="accounts/login">Login</a></li>
+                    {% endif%}
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section class="hero" id="hero">
+                <div class="hero-text">
+                    <span id="heading">Styling Your Fashion Dreams</span>
+                    <p id="subtitle">Bringing creativity to life with the latest fashion trends.</p>
+                </div>
+                <div class="hero-image">
+                     <img src="{% static 'tailor.jpg' %}" alt="Fashion Designer at Work">
+                </div>
+            </section>
+
+            <section class="services" id="services">
+                <div id="heading">Our Services</div>
+                <div class="service-container">
+                    <div class="service-item">
+                        <a href="AiTailor/fabric"><img src="{% static 'dress.jpeg' %}" alt="Custom Tailoring">
+                        <p>Custom Tailoring</p></a>
+                    </div>
+                    <div class="service-item">
+                        <a href="AiTailor/fabric"><img src="{% static 'lehanga.jpeg' %}"alt="Fabric Selection">
+                        <p>Fabric Selection</p></a>
+                    </div>
+                </div>        
+            </section>
+        </main>
+        <footer id="about">
+            <div class="text">
+                <span id="title">Make & Measure</span>
+                <p id="subtitle">Smart Fit Perfect Stitch <br><br> AI-powered Tailoring for you</p>
+                <p id="para">Make and Measure is an innovative platform that allows users to estimate the stitching cost of their custom designs from the comfort of their home. It offers the flexibility to modify styles, patterns, prints, and models according to individual preferences. With Make and Measure, you have the freedom to create and personalize your own fashion — essentially becoming your own tailor.</p>
+            </div>
+        </footer>
+    </body>
+    <tail>
+        <div class="copy">© | 2025 | SNAM</div>
+    </tail>
+</html>

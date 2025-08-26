@@ -1,0 +1,152 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(#ffe7e7,rgb(254, 247, 247));
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            text-align: center;
+        }
+        header {
+            color:#ed477f;
+            padding: 20px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .title{
+            font-weight:900 ;
+            font-size: 60px;
+        }
+        .banner {
+            background: url('model-banner.jpg') no-repeat center center/cover;
+            color: #fff;
+            padding: 50px 0;
+        }
+        .shop-now {
+            background-color: #d32f2f;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .shop-now:hover {
+            background-color: #ed477f;
+        }
+        .shop-now, .select-btn, .next-btn {
+            background-color: #ed477f;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .shop-now:hover, .select-btn:hover, .next-btn:hover {
+            background-color: #27ef2a;
+        }
+        .model-gallery {
+            padding: 40px 0;
+        }
+        .model-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .model-card {
+            background: #fff;
+            margin: 15px;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+            width: 250px;
+            text-align: center;
+        }
+        .model-card img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .next-section {
+            text-align: center;
+            margin: 30px 0;
+        }
+        .login{
+            color: blue;
+            text-align: center;
+            font-size:3cm;
+            font-weight: 400;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <span class="title">Fabrics</span>
+            <marquee><p>Quality Fabric that are Never Out Of Style</p></marquee>
+        </div>
+    </header>
+    {% if user.is_authenticated %}
+    <section class="model-gallery">
+        <div class="container">
+            <form id="fabricForm" action="{% url 'select_fabric' %}" method="POST">
+            {% csrf_token %}
+            <input type="hidden" id="selectedFabric" name="fabric">
+            <div class="model-container">
+                <div class="model-card">
+                    <img src="{% static 'cotton.jpeg' %}" alt="Cotton">
+                    <p>Cotton</p>
+                    <button class="select-btn" onclick="selectFabric('Cotton')">Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'velvet2.jpeg' %}" alt="Velvet">
+                    <p>Velvet</p>
+                    <button class="select-btn" onclick="selectFabric('Velvet')">Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'organza.jpeg'%}" alt="Organza">
+                    <p>Organza</p>
+                    <button class="select-btn" onclick="selectFabric('Organza')">Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'silk2.jpeg' %}" alt="Silk">
+                    <p>Silk</p>
+                    <button class="select-btn" onclick="selectFabric('Silk')">Select</button>
+                </div>
+                
+                <div class="model-card">
+                    <img src="{% static 'lenin.jpeg' %}" alt="Lenin">
+                    <p>Lenin</p>
+                    <button class="select-btn" onclick="selectFabric('Lenin')">Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'polyster.jpeg' %}" alt="Polyster">
+                    <p>Polyster</p>
+                    <button class="select-btn" onclick="selectFabric('Polyster')">Select</button>
+                </div>
+            </div>
+            </form>
+        </div>
+    </section>
+    {% else %}
+    <p class="login">Login First</p>
+    {% endif%}
+</body>
+<script>
+    function selectFabric(fabric) {
+        document.getElementById('selectedFabric').value = fabric;
+        document.getElementById('fabricForm').submit();
+  }
+</script>
+</html>
+
