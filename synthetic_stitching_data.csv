@@ -1,0 +1,1001 @@
+height,weight,chest,waist,hips,shoulders,arm_length,fabric,dress_type,stitching_cost
+155,44,109,63,86,49,61,Silk,Saree,1041
+166,66,92,90,93,48,55,Organza,Short Kurtis,1031
+165,75,97,74,107,37,51,Velvet,Frock,1025
+161,54,96,79,85,40,46,Velvet,Short Kurtis,1005
+175,79,107,93,78,46,65,Silk,Short Kurtis,1068
+156,45,73,80,79,37,59,Polyster,Saree,892
+173,44,89,71,102,44,62,Polyster,Frock,914
+166,54,109,60,89,35,54,Polyster,Short Kurtis,901
+166,63,78,77,80,50,46,Velvet,Punjabi Suits,1019
+145,49,78,75,87,42,49,Silk,Punjabi Suits,979
+165,50,79,71,81,42,47,Polyster,Punjabi Suits,888
+174,62,91,93,108,49,50,Velvet,Saree,1115
+153,50,104,61,103,43,65,Silk,Skirt,1063
+143,71,109,91,103,43,56,Polyster,Frock,951
+166,74,83,100,102,36,61,Lenin,Punjabi Suits,1019
+158,79,82,71,95,37,63,Cotton,Short Kurtis,914
+141,41,92,88,91,43,62,Velvet,Short Kurtis,1032
+160,57,74,88,81,37,58,Lenin,Saree,944
+180,79,94,90,78,48,48,Cotton,Frock,925
+176,67,91,65,76,42,55,Polyster,Frock,865
+162,50,82,68,110,36,57,Silk,Short Kurtis,996
+166,61,93,72,93,43,54,Organza,Saree,1025
+145,70,87,67,104,38,65,Polyster,Tunics,941
+164,48,86,61,95,47,48,Velvet,Short Kurtis,992
+153,77,78,86,81,39,60,Velvet,Skirt,1043
+166,62,76,73,96,41,51,Cotton,Tunics,928
+160,56,109,82,86,36,61,Polyster,Tunics,967
+173,73,89,73,78,48,54,Lenin,Skirt,974
+148,48,82,90,110,47,47,Velvet,Punjabi Suits,1069
+143,43,103,60,95,43,48,Silk,Frock,953
+155,79,78,78,82,45,45,Cotton,Saree,911
+175,76,96,85,87,50,52,Silk,Punjabi Suits,1069
+178,42,110,77,89,47,54,Silk,Punjabi Suits,1071
+144,55,84,94,91,41,59,Organza,Skirt,1038
+179,55,85,88,86,42,50,Silk,Frock,987
+141,50,72,82,87,36,65,Polyster,Frock,853
+151,76,76,76,83,36,60,Lenin,Saree,932
+178,58,93,77,77,45,63,Velvet,Punjabi Suits,1063
+179,54,104,70,92,50,46,Silk,Punjabi Suits,1053
+151,63,106,78,110,46,55,Polyster,Short Kurtis,964
+153,56,94,97,85,47,53,Silk,Punjabi Suits,1055
+156,59,107,90,105,39,59,Organza,Saree,1084
+173,76,102,86,85,41,60,Velvet,Frock,1043
+173,69,87,94,85,45,59,Silk,Punjabi Suits,1065
+165,48,101,87,88,35,52,Polyster,Saree,952
+143,54,87,97,79,46,63,Cotton,Short Kurtis,931
+160,60,83,78,93,43,63,Organza,Punjabi Suits,1028
+174,65,78,76,101,40,57,Silk,Short Kurtis,1008
+164,46,101,75,94,43,55,Organza,Punjabi Suits,1038
+162,44,100,81,92,44,50,Lenin,Saree,985
+179,63,103,63,101,49,63,Polyster,Punjabi Suits,991
+148,66,88,96,84,43,64,Polyster,Skirt,973
+176,58,108,73,79,35,62,Velvet,Frock,1014
+157,71,75,66,94,35,58,Velvet,Punjabi Suits,1011
+160,67,101,95,79,39,57,Polyster,Tunics,966
+151,76,102,87,78,49,51,Cotton,Skirt,976
+161,50,78,90,85,41,48,Organza,Punjabi Suits,998
+164,61,110,61,80,40,65,Velvet,Saree,1055
+171,55,87,83,78,39,47,Cotton,Punjabi Suits,925
+154,68,97,82,107,41,51,Organza,Tunics,1052
+158,49,101,75,103,47,50,Polyster,Saree,967
+153,54,78,73,108,46,50,Cotton,Short Kurtis,913
+176,76,79,95,76,48,64,Cotton,Punjabi Suits,977
+168,46,109,65,76,49,56,Polyster,Saree,942
+169,65,104,88,79,45,58,Lenin,Tunics,1007
+172,75,104,61,82,36,45,Cotton,Frock,873
+144,64,93,95,85,36,45,Cotton,Short Kurtis,908
+147,65,76,66,86,46,50,Velvet,Skirt,1005
+163,64,93,96,92,47,54,Lenin,Frock,964
+169,78,110,94,83,35,65,Silk,Frock,1040
+170,43,96,79,82,47,54,Velvet,Tunics,1057
+149,50,108,80,82,50,49,Cotton,Saree,960
+174,63,92,99,89,41,64,Organza,Frock,1026
+160,41,109,93,94,37,46,Lenin,Short Kurtis,970
+143,53,72,85,103,39,55,Silk,Frock,964
+164,42,88,72,106,35,61,Silk,Saree,1038
+149,50,96,72,87,50,62,Velvet,Saree,1057
+162,56,103,86,86,46,58,Polyster,Skirt,986
+157,80,91,98,98,43,53,Velvet,Short Kurtis,1066
+163,78,87,63,80,36,60,Organza,Punjabi Suits,984
+167,79,81,64,81,46,48,Lenin,Short Kurtis,898
+157,63,86,88,95,49,58,Silk,Punjabi Suits,1060
+178,62,79,84,107,50,47,Organza,Skirt,1062
+158,65,94,92,104,38,49,Organza,Punjabi Suits,1053
+172,59,102,82,90,39,62,Silk,Frock,1019
+179,58,82,99,102,46,63,Velvet,Skirt,1129
+169,65,78,92,75,38,52,Lenin,Punjabi Suits,948
+176,47,97,97,80,47,50,Organza,Saree,1052
+170,78,81,84,106,43,64,Lenin,Punjabi Suits,1017
+149,66,80,88,106,47,46,Lenin,Punjabi Suits,982
+162,59,97,92,109,47,45,Organza,Saree,1074
+178,56,88,80,100,38,48,Cotton,Frock,911
+142,64,108,93,87,38,47,Silk,Skirt,1055
+162,54,73,99,86,45,61,Polyster,Punjabi Suits,953
+140,50,78,99,81,44,62,Silk,Tunics,1026
+140,71,99,91,86,44,65,Lenin,Tunics,1003
+149,40,103,69,110,47,48,Silk,Short Kurtis,1019
+174,65,101,92,77,38,55,Organza,Frock,994
+143,41,93,78,100,42,55,Lenin,Skirt,981
+151,46,87,84,82,44,48,Cotton,Saree,924
+172,57,109,88,80,38,61,Silk,Punjabi Suits,1070
+175,49,105,75,110,42,58,Silk,Frock,1040
+145,70,88,85,87,40,56,Polyster,Skirt,943
+159,53,96,62,102,43,58,Silk,Frock,986
+144,58,86,99,81,49,55,Silk,Punjabi Suits,1040
+147,64,80,91,103,49,56,Silk,Punjabi Suits,1057
+177,65,102,87,91,36,57,Velvet,Skirt,1101
+170,79,74,86,85,46,51,Organza,Short Kurtis,984
+146,40,84,62,97,45,65,Polyster,Tunics,921
+146,44,107,90,107,48,52,Silk,Saree,1088
+168,63,102,75,84,48,63,Velvet,Punjabi Suits,1082
+158,75,81,63,78,35,57,Polyster,Tunics,882
+154,67,87,81,77,42,60,Cotton,Frock,886
+167,75,91,78,100,36,50,Lenin,Punjabi Suits,980
+171,70,75,82,93,38,56,Velvet,Punjabi Suits,1045
+168,40,88,71,98,46,55,Lenin,Short Kurtis,945
+148,59,94,63,99,43,45,Velvet,Saree,1024
+173,48,97,61,99,38,47,Organza,Tunics,1007
+150,73,82,98,97,38,64,Polyster,Skirt,982
+163,51,71,69,79,47,53,Silk,Punjabi Suits,976
+144,53,85,78,110,41,49,Organza,Frock,968
+158,53,106,82,84,36,62,Silk,Frock,999
+180,52,75,99,80,42,49,Cotton,Short Kurtis,918
+141,66,91,63,90,41,48,Organza,Short Kurtis,945
+140,78,90,61,83,44,64,Velvet,Short Kurtis,991
+148,75,84,76,75,36,57,Polyster,Skirt,905
+164,76,85,71,98,48,59,Lenin,Punjabi Suits,987
+146,59,108,60,109,46,63,Lenin,Saree,1006
+176,66,98,69,100,41,63,Cotton,Punjabi Suits,988
+147,80,78,81,87,44,48,Velvet,Tunics,1021
+153,71,105,88,84,40,50,Lenin,Short Kurtis,956
+154,73,85,60,97,35,50,Velvet,Skirt,1017
+141,55,102,69,76,46,52,Organza,Short Kurtis,959
+170,54,105,85,88,48,64,Organza,Punjabi Suits,1078
+162,68,79,78,75,35,48,Silk,Punjabi Suits,974
+141,42,96,67,84,39,54,Organza,Skirt,988
+166,52,91,82,102,46,56,Velvet,Punjabi Suits,1085
+179,68,106,69,83,45,60,Lenin,Tunics,999
+155,41,105,71,80,44,50,Velvet,Short Kurtis,1003
+147,47,94,92,91,35,52,Polyster,Frock,890
+172,62,88,84,83,43,64,Lenin,Saree,990
+179,50,77,80,104,38,61,Silk,Skirt,1059
+178,53,90,93,97,45,59,Polyster,Tunics,995
+162,71,73,77,82,44,65,Silk,Tunics,1014
+141,63,72,87,102,40,54,Lenin,Frock,907
+173,79,106,80,102,38,57,Lenin,Short Kurtis,997
+159,57,97,99,102,50,58,Cotton,Skirt,1035
+175,60,72,78,80,40,51,Lenin,Tunics,930
+177,43,76,99,109,37,48,Lenin,Skirt,1009
+164,70,98,75,101,40,49,Polyster,Short Kurtis,928
+146,72,79,91,83,40,64,Polyster,Tunics,936
+161,43,102,68,109,48,63,Cotton,Frock,948
+151,67,93,89,108,48,64,Cotton,Short Kurtis,986
+159,46,103,62,101,44,52,Silk,Short Kurtis,1006
+163,72,98,71,76,49,57,Cotton,Tunics,950
+176,76,103,76,99,50,46,Polyster,Skirt,995
+147,55,83,75,109,48,54,Organza,Saree,1030
+155,77,101,83,85,43,45,Cotton,Tunics,954
+140,48,100,80,97,39,54,Lenin,Skirt,984
+176,52,78,69,93,45,60,Lenin,Tunics,965
+178,47,106,80,93,41,55,Organza,Frock,1010
+146,60,70,93,91,42,51,Lenin,Skirt,958
+165,54,94,66,96,42,55,Cotton,Short Kurtis,919
+168,48,98,98,91,42,53,Organza,Skirt,1073
+153,69,86,75,90,48,54,Cotton,Short Kurtis,914
+180,79,75,66,93,50,54,Organza,Skirt,1025
+167,75,88,83,97,44,61,Lenin,Frock,957
+145,77,83,78,108,40,62,Lenin,Punjabi Suits,988
+179,42,77,82,91,38,53,Cotton,Punjabi Suits,938
+163,67,73,99,104,46,60,Polyster,Punjabi Suits,985
+177,65,105,89,93,41,55,Lenin,Short Kurtis,996
+180,52,102,65,93,49,53,Silk,Punjabi Suits,1053
+180,49,106,89,103,50,62,Cotton,Short Kurtis,1014
+141,77,93,72,101,47,51,Cotton,Short Kurtis,924
+178,48,74,75,106,49,62,Organza,Punjabi Suits,1046
+171,48,110,81,90,39,56,Cotton,Punjabi Suits,986
+178,69,93,74,82,35,63,Velvet,Skirt,1064
+175,47,95,74,86,46,52,Velvet,Short Kurtis,1024
+156,48,103,63,106,46,47,Velvet,Skirt,1068
+157,53,80,81,87,35,59,Silk,Frock,956
+171,52,93,83,103,42,57,Silk,Saree,1070
+154,61,101,88,97,49,63,Organza,Short Kurtis,1050
+145,77,92,63,96,36,65,Organza,Skirt,1019
+168,67,89,90,80,46,64,Silk,Tunics,1059
+159,65,75,74,98,43,56,Lenin,Short Kurtis,927
+153,54,76,93,94,46,56,Organza,Short Kurtis,998
+155,73,73,60,106,49,49,Velvet,Frock,973
+155,57,76,70,80,50,49,Organza,Short Kurtis,940
+178,77,108,74,97,47,53,Velvet,Frock,1055
+165,55,90,92,99,50,57,Polyster,Short Kurtis,962
+180,61,78,84,82,44,47,Cotton,Skirt,945
+180,53,91,88,96,44,46,Organza,Frock,998
+164,44,93,81,97,37,65,Organza,Short Kurtis,1015
+151,70,105,78,82,38,52,Lenin,Short Kurtis,936
+146,80,96,78,81,47,50,Velvet,Frock,991
+160,64,92,100,98,48,57,Cotton,Skirt,1021
+142,70,85,90,79,35,61,Organza,Skirt,1012
+163,73,101,65,107,49,46,Velvet,Frock,1026
+144,42,92,82,91,40,51,Polyster,Saree,924
+165,41,99,63,81,48,65,Silk,Tunics,1030
+153,77,104,89,99,39,63,Lenin,Saree,1028
+146,71,105,68,109,40,59,Silk,Skirt,1072
+180,65,75,77,97,42,48,Organza,Frock,963
+149,44,86,92,101,43,64,Organza,Frock,1003
+152,54,76,84,90,48,61,Velvet,Skirt,1058
+180,49,73,66,103,43,53,Lenin,Tunics,956
+165,44,77,100,82,38,62,Polyster,Punjabi Suits,945
+156,79,75,80,96,41,58,Organza,Skirt,1025
+179,74,103,92,105,36,64,Silk,Punjabi Suits,1116
+162,56,110,66,84,39,48,Organza,Tunics,1008
+157,43,107,64,95,39,62,Lenin,Skirt,991
+140,66,90,72,103,35,56,Organza,Frock,958
+157,40,82,88,86,37,53,Velvet,Frock,978
+178,49,94,91,102,43,49,Velvet,Short Kurtis,1066
+173,74,109,93,107,38,55,Silk,Punjabi Suits,1114
+144,67,82,70,79,45,50,Silk,Short Kurtis,947
+151,46,80,70,103,49,50,Velvet,Tunics,1035
+144,78,78,90,82,45,51,Silk,Short Kurtis,980
+165,46,98,93,109,39,64,Silk,Short Kurtis,1072
+158,76,95,71,80,48,50,Cotton,Saree,937
+171,61,108,98,81,49,65,Polyster,Punjabi Suits,1018
+150,43,82,67,88,47,48,Lenin,Tunics,923
+158,78,86,70,90,41,59,Silk,Frock,970
+160,46,77,60,103,39,49,Silk,Saree,985
+149,73,99,73,80,49,61,Lenin,Punjabi Suits,976
+147,76,70,91,99,48,45,Lenin,Punjabi Suits,962
+177,76,107,94,90,44,65,Lenin,Frock,1005
+165,54,83,87,104,49,62,Lenin,Punjabi Suits,1017
+141,47,105,77,78,42,50,Organza,Skirt,1007
+146,77,92,90,85,49,53,Silk,Skirt,1056
+146,47,82,77,78,47,46,Silk,Saree,978
+159,72,107,77,102,47,50,Polyster,Frock,935
+154,46,97,84,91,46,47,Silk,Saree,1036
+156,64,90,69,109,46,54,Polyster,Frock,908
+161,49,110,85,85,38,54,Silk,Tunics,1053
+157,75,107,68,103,39,56,Lenin,Punjabi Suits,999
+146,60,71,70,93,39,48,Polyster,Skirt,889
+140,62,78,87,90,49,52,Polyster,Tunics,927
+166,66,95,98,104,36,54,Velvet,Tunics,1104
+164,47,73,99,83,40,46,Velvet,Punjabi Suits,1028
+175,46,91,60,87,47,53,Velvet,Saree,1032
+178,60,85,84,97,46,47,Lenin,Short Kurtis,960
+160,66,93,71,85,35,64,Cotton,Tunics,941
+153,56,97,91,84,48,46,Organza,Short Kurtis,1000
+177,59,72,96,104,35,51,Silk,Tunics,1047
+170,53,71,100,88,40,63,Organza,Skirt,1046
+173,53,86,71,90,35,65,Silk,Short Kurtis,996
+148,42,70,95,106,45,57,Cotton,Tunics,963
+157,60,104,70,83,38,53,Silk,Frock,967
+149,50,77,70,96,42,51,Polyster,Skirt,910
+147,52,81,74,91,36,46,Organza,Skirt,977
+169,41,103,93,98,38,53,Velvet,Tunics,1096
+146,73,108,72,89,39,54,Lenin,Skirt,984
+157,73,72,89,109,36,52,Velvet,Saree,1056
+153,80,110,61,81,38,56,Velvet,Frock,987
+169,54,98,72,90,48,59,Cotton,Short Kurtis,943
+156,63,89,99,78,40,45,Lenin,Saree,962
+144,61,87,74,84,36,59,Velvet,Skirt,1026
+159,58,97,85,100,42,55,Silk,Tunics,1065
+171,47,101,93,96,48,47,Cotton,Frock,949
+151,59,86,79,97,35,52,Lenin,Frock,904
+158,62,90,77,76,35,63,Organza,Tunics,998
+180,60,98,82,86,41,64,Velvet,Frock,1039
+167,68,72,61,103,48,64,Lenin,Tunics,967
+162,79,84,73,101,50,62,Organza,Saree,1050
+171,56,96,67,110,44,56,Silk,Saree,1064
+140,73,73,65,102,38,50,Polyster,Tunics,888
+150,47,87,60,97,46,52,Cotton,Frock,869
+174,42,87,87,103,46,64,Silk,Frock,1033
+176,42,72,64,94,49,60,Velvet,Frock,983
+144,79,109,75,107,48,61,Cotton,Frock,961
+145,44,100,63,82,36,64,Lenin,Frock,889
+157,41,93,82,79,50,59,Lenin,Frock,924
+171,49,76,60,82,42,50,Cotton,Punjabi Suits,887
+140,66,93,84,90,37,62,Cotton,Tunics,953
+153,51,103,75,107,38,51,Organza,Punjabi Suits,1041
+164,57,91,85,105,40,48,Lenin,Punjabi Suits,993
+145,76,85,100,106,46,64,Organza,Tunics,1083
+158,62,71,90,104,46,59,Silk,Punjabi Suits,1052
+143,78,101,66,98,36,48,Silk,Short Kurtis,984
+152,71,92,70,76,41,52,Lenin,Skirt,941
+144,45,77,85,83,42,59,Lenin,Short Kurtis,910
+167,71,110,60,89,38,61,Polyster,Skirt,963
+147,48,76,66,97,37,45,Organza,Punjabi Suits,956
+164,70,94,78,97,38,56,Velvet,Frock,1018
+170,75,89,82,98,47,47,Cotton,Short Kurtis,944
+146,57,71,82,99,40,62,Velvet,Short Kurtis,1007
+175,74,81,69,76,47,47,Organza,Frock,933
+141,58,94,93,88,37,52,Silk,Saree,1029
+178,63,88,77,77,40,51,Cotton,Saree,931
+159,51,91,87,93,36,61,Organza,Short Kurtis,1006
+147,63,70,87,110,45,46,Organza,Saree,1016
+162,60,106,85,110,47,64,Cotton,Saree,1037
+156,69,88,62,86,40,63,Polyster,Short Kurtis,886
+167,52,81,95,83,40,45,Organza,Punjabi Suits,1006
+151,70,110,68,89,35,64,Organza,Saree,1033
+148,76,106,100,104,38,64,Velvet,Skirt,1141
+179,46,102,68,88,41,63,Cotton,Short Kurtis,941
+143,79,106,79,103,47,62,Organza,Tunics,1076
+151,66,75,77,86,37,56,Lenin,Skirt,939
+166,60,98,89,86,45,52,Organza,Skirt,1057
+175,40,110,71,110,42,51,Silk,Frock,1029
+180,74,96,67,92,38,57,Polyster,Skirt,962
+148,44,105,94,101,48,51,Velvet,Punjabi Suits,1102
+141,53,104,89,91,35,51,Cotton,Punjabi Suits,956
+153,68,105,60,81,37,55,Cotton,Saree,922
+169,67,85,61,101,47,60,Cotton,Tunics,957
+161,46,76,83,81,47,51,Silk,Tunics,1001
+174,76,86,84,86,43,59,Silk,Skirt,1060
+174,52,75,81,109,50,56,Cotton,Saree,982
+154,51,73,85,98,48,46,Cotton,Skirt,945
+145,50,110,89,100,43,65,Lenin,Skirt,1044
+152,56,96,60,94,49,61,Silk,Tunics,1030
+158,47,106,97,90,45,51,Polyster,Skirt,996
+153,80,106,60,99,40,47,Cotton,Frock,896
+145,53,82,98,96,40,50,Organza,Frock,973
+151,44,106,70,95,50,64,Silk,Skirt,1073
+175,80,102,83,91,47,62,Polyster,Punjabi Suits,1002
+151,50,98,85,76,35,65,Velvet,Saree,1046
+169,59,82,82,105,46,45,Silk,Punjabi Suits,1044
+170,49,87,88,80,44,65,Silk,Punjabi Suits,1048
+171,79,106,66,102,38,64,Polyster,Tunics,985
+162,54,104,84,108,43,55,Lenin,Saree,1028
+151,79,87,67,87,41,47,Polyster,Frock,850
+171,62,99,71,95,42,51,Cotton,Saree,963
+166,63,100,91,97,45,54,Velvet,Punjabi Suits,1103
+174,45,101,62,95,46,53,Silk,Short Kurtis,1009
+146,44,101,68,91,40,55,Organza,Short Kurtis,975
+172,47,87,92,96,43,54,Lenin,Punjabi Suits,1001
+178,40,70,98,93,38,62,Velvet,Punjabi Suits,1067
+141,67,74,77,93,39,62,Silk,Skirt,1013
+177,67,110,96,79,39,61,Silk,Skirt,1100
+143,63,103,83,101,47,60,Polyster,Tunics,987
+165,62,81,65,84,48,61,Velvet,Skirt,1040
+142,44,71,75,81,41,47,Cotton,Saree,872
+163,49,87,97,77,44,48,Silk,Punjabi Suits,1026
+140,55,94,61,108,46,47,Organza,Saree,1005
+141,47,82,88,101,48,64,Lenin,Punjabi Suits,994
+154,44,99,66,86,37,54,Cotton,Tunics,921
+166,76,106,80,83,46,64,Lenin,Short Kurtis,985
+146,71,90,71,87,48,49,Silk,Frock,958
+155,70,70,60,79,39,59,Organza,Skirt,957
+164,53,86,73,110,37,55,Polyster,Punjabi Suits,950
+145,49,72,84,100,39,59,Velvet,Frock,984
+149,47,94,90,99,45,56,Velvet,Frock,1031
+150,58,94,100,79,38,55,Lenin,Frock,928
+151,73,104,80,97,39,58,Cotton,Skirt,992
+163,67,85,71,85,36,48,Velvet,Short Kurtis,979
+159,47,78,96,89,46,47,Cotton,Skirt,957
+165,60,110,72,103,43,60,Lenin,Saree,1023
+145,73,109,98,109,42,65,Polyster,Short Kurtis,1005
+167,47,89,86,109,43,53,Velvet,Skirt,1099
+156,64,74,99,109,46,52,Polyster,Skirt,986
+152,53,87,68,78,42,56,Polyster,Skirt,906
+163,75,92,92,110,41,50,Velvet,Frock,1052
+179,68,81,75,88,39,58,Polyster,Tunics,936
+156,76,98,74,86,39,54,Polyster,Short Kurtis,906
+144,58,96,91,89,40,62,Organza,Saree,1042
+145,64,93,66,88,49,55,Organza,Punjabi Suits,1004
+159,73,77,99,101,35,63,Velvet,Tunics,1083
+161,53,83,72,98,45,55,Cotton,Short Kurtis,916
+177,47,74,64,91,48,62,Cotton,Frock,885
+166,60,94,70,107,38,49,Lenin,Tunics,979
+159,75,92,76,105,44,52,Silk,Tunics,1055
+174,46,76,100,95,38,54,Organza,Skirt,1048
+156,41,79,99,84,37,61,Lenin,Saree,969
+141,57,73,70,77,38,47,Silk,Skirt,950
+167,43,70,78,93,47,50,Velvet,Skirt,1035
+154,65,105,72,89,42,52,Polyster,Frock,895
+177,41,82,89,93,43,57,Polyster,Frock,911
+147,54,80,83,101,42,61,Cotton,Skirt,966
+150,61,72,96,87,49,45,Silk,Short Kurtis,984
+162,77,77,81,78,46,60,Organza,Saree,1007
+144,68,74,100,93,46,59,Lenin,Short Kurtis,956
+151,75,90,63,86,49,63,Velvet,Frock,992
+144,72,102,83,80,46,63,Cotton,Short Kurtis,940
+157,69,98,89,95,42,64,Polyster,Tunics,990
+151,65,104,89,101,44,58,Velvet,Frock,1056
+169,73,110,62,84,46,53,Velvet,Punjabi Suits,1061
+149,52,108,76,110,36,55,Silk,Punjabi Suits,1064
+159,53,97,66,102,46,53,Organza,Saree,1031
+176,59,110,99,88,43,45,Organza,Short Kurtis,1047
+161,59,77,81,93,44,49,Organza,Short Kurtis,974
+162,78,98,95,79,50,59,Organza,Frock,1016
+164,49,91,65,108,44,65,Cotton,Punjabi Suits,977
+174,41,95,65,110,41,48,Silk,Tunics,1041
+143,79,108,97,97,37,59,Cotton,Short Kurtis,977
+159,79,84,74,104,50,64,Silk,Punjabi Suits,1066
+144,60,98,91,76,49,65,Organza,Saree,1044
+146,54,100,84,85,41,53,Cotton,Skirt,960
+153,62,91,79,91,37,52,Lenin,Short Kurtis,928
+163,60,72,90,84,50,60,Silk,Tunics,1034
+175,69,86,79,110,35,53,Cotton,Saree,976
+143,47,98,93,104,43,57,Cotton,Punjabi Suits,993
+149,79,86,99,79,47,48,Velvet,Tunics,1053
+175,62,73,68,87,48,58,Polyster,Short Kurtis,890
+161,73,90,100,79,45,50,Polyster,Punjabi Suits,958
+148,73,106,100,106,49,55,Lenin,Skirt,1066
+160,76,79,68,102,39,63,Polyster,Short Kurtis,909
+173,66,110,63,81,36,62,Cotton,Short Kurtis,927
+168,45,80,100,97,37,52,Cotton,Short Kurtis,938
+150,41,81,83,95,38,50,Lenin,Frock,895
+163,53,99,95,91,42,53,Organza,Saree,1058
+158,63,71,88,98,47,56,Organza,Frock,977
+147,48,84,77,96,41,65,Lenin,Frock,919
+168,61,81,66,94,49,49,Organza,Skirt,1012
+165,63,72,85,85,35,59,Cotton,Short Kurtis,896
+141,42,96,72,102,35,46,Polyster,Short Kurtis,884
+179,80,106,60,95,43,56,Velvet,Short Kurtis,1048
+152,49,90,84,88,42,56,Lenin,Frock,918
+159,72,89,72,78,42,65,Polyster,Frock,879
+166,53,85,70,97,47,55,Velvet,Saree,1051
+175,56,82,63,99,43,46,Lenin,Frock,897
+167,74,89,60,107,50,65,Cotton,Frock,933
+179,73,108,84,92,49,53,Polyster,Skirt,1015
+180,53,92,85,107,40,53,Silk,Tunics,1076
+166,47,81,81,78,36,48,Polyster,Punjabi Suits,894
+175,71,91,96,80,37,60,Polyster,Skirt,978
+145,74,75,66,99,50,50,Organza,Short Kurtis,960
+148,68,86,94,80,43,55,Lenin,Tunics,968
+155,59,103,99,105,47,64,Velvet,Skirt,1150
+159,74,79,76,88,44,53,Velvet,Tunics,1031
+151,46,85,72,76,41,62,Polyster,Skirt,911
+153,59,106,100,96,45,64,Cotton,Tunics,1028
+169,56,97,79,86,44,65,Organza,Short Kurtis,1020
+170,52,98,86,99,40,59,Velvet,Skirt,1106
+172,80,94,63,86,38,47,Polyster,Skirt,925
+146,54,72,87,85,41,59,Velvet,Punjabi Suits,1021
+147,53,95,63,87,49,63,Silk,Short Kurtis,991
+153,57,94,83,105,39,65,Lenin,Saree,1010
+170,73,74,85,103,44,63,Polyster,Short Kurtis,942
+154,76,101,63,86,42,52,Velvet,Short Kurtis,1004
+149,43,82,76,101,48,56,Velvet,Skirt,1059
+163,52,93,78,83,50,64,Polyster,Short Kurtis,929
+169,78,105,74,107,36,58,Lenin,Tunics,1020
+151,66,90,97,98,37,64,Silk,Skirt,1082
+158,41,96,77,98,39,49,Organza,Skirt,1029
+180,47,94,69,80,36,58,Cotton,Saree,934
+173,64,104,72,107,49,63,Organza,Short Kurtis,1061
+150,41,70,99,86,40,57,Velvet,Saree,1032
+151,61,78,91,102,46,47,Polyster,Short Kurtis,917
+143,72,84,81,76,49,61,Cotton,Tunics,935
+158,54,96,66,93,37,53,Organza,Tunics,1002
+178,67,99,66,89,43,60,Lenin,Tunics,989
+153,53,89,78,86,44,46,Cotton,Short Kurtis,895
+153,67,92,61,99,42,59,Silk,Skirt,1034
+142,69,70,85,108,48,60,Lenin,Saree,983
+178,60,87,83,104,40,61,Polyster,Saree,984
+153,49,73,99,97,49,47,Cotton,Tunics,956
+163,70,101,94,96,36,63,Silk,Tunics,1088
+163,46,81,62,84,47,58,Cotton,Saree,914
+140,65,84,89,94,50,60,Polyster,Saree,960
+176,52,75,62,110,46,50,Velvet,Frock,992
+152,41,82,73,83,41,45,Organza,Frock,912
+173,41,106,65,82,46,52,Cotton,Short Kurtis,918
+141,49,103,86,80,40,48,Polyster,Punjabi Suits,925
+169,72,104,69,102,41,58,Velvet,Punjabi Suits,1089
+155,70,109,97,86,42,45,Polyster,Saree,975
+159,55,77,81,101,35,65,Polyster,Punjabi Suits,944
+150,59,95,63,99,41,54,Polyster,Frock,878
+178,76,101,78,84,47,62,Organza,Short Kurtis,1034
+142,61,70,64,80,50,52,Polyster,Punjabi Suits,868
+174,76,88,69,82,42,54,Velvet,Short Kurtis,1005
+152,76,79,98,110,47,64,Cotton,Tunics,1013
+152,51,98,60,78,48,54,Cotton,Punjabi Suits,916
+169,76,90,96,107,41,64,Silk,Tunics,1106
+166,49,95,86,82,42,48,Silk,Frock,978
+179,77,93,62,97,37,57,Cotton,Skirt,966
+151,55,88,85,82,38,63,Organza,Short Kurtis,983
+151,59,82,77,81,48,46,Polyster,Frock,851
+178,63,75,82,89,42,56,Velvet,Punjabi Suits,1048
+151,68,77,65,106,44,58,Cotton,Frock,888
+175,64,88,97,108,50,63,Velvet,Punjabi Suits,1139
+143,66,92,95,109,41,58,Organza,Punjabi Suits,1069
+153,57,92,89,90,40,46,Lenin,Tunics,967
+145,57,101,60,90,36,54,Velvet,Frock,967
+178,64,102,70,92,44,55,Polyster,Tunics,967
+174,69,70,95,99,42,59,Organza,Skirt,1058
+166,46,97,93,77,48,59,Cotton,Skirt,989
+165,53,96,85,104,41,46,Organza,Short Kurtis,1017
+163,47,71,91,106,42,63,Cotton,Tunics,975
+152,76,79,73,82,38,48,Polyster,Frock,836
+142,64,76,60,101,35,63,Silk,Skirt,998
+143,52,110,100,109,38,54,Lenin,Punjabi Suits,1039
+180,55,88,84,87,48,56,Polyster,Skirt,976
+152,78,106,60,99,47,63,Silk,Frock,1009
+173,75,80,67,88,43,63,Lenin,Tunics,963
+173,45,73,77,91,40,58,Polyster,Tunics,921
+141,60,83,92,86,50,65,Cotton,Frock,917
+167,65,80,75,93,41,64,Polyster,Saree,944
+144,78,93,87,110,49,57,Polyster,Skirt,1005
+169,73,102,92,92,43,56,Cotton,Punjabi Suits,1006
+159,55,93,78,80,38,59,Velvet,Punjabi Suits,1037
+170,51,101,75,99,41,58,Cotton,Tunics,983
+143,77,72,92,83,44,48,Lenin,Punjabi Suits,938
+145,48,85,80,105,35,58,Polyster,Punjabi Suits,937
+174,69,97,99,109,36,54,Cotton,Tunics,1023
+163,68,86,61,106,43,50,Silk,Short Kurtis,991
+143,60,93,69,91,46,46,Cotton,Punjabi Suits,922
+165,46,73,82,100,36,56,Silk,Punjabi Suits,1018
+140,74,89,97,78,40,52,Lenin,Punjabi Suits,961
+166,61,97,75,110,36,47,Organza,Tunics,1040
+146,73,96,100,83,42,55,Polyster,Punjabi Suits,965
+165,47,92,63,107,36,65,Silk,Saree,1042
+152,58,109,73,85,50,57,Organza,Punjabi Suits,1042
+167,44,89,77,91,39,46,Silk,Short Kurtis,981
+171,79,103,76,78,46,45,Lenin,Punjabi Suits,973
+151,66,110,93,92,47,49,Lenin,Tunics,1019
+159,57,80,74,82,48,51,Polyster,Short Kurtis,878
+140,74,87,95,79,45,52,Polyster,Skirt,944
+143,63,98,82,105,36,54,Organza,Frock,988
+180,52,84,87,90,49,63,Lenin,Tunics,1010
+171,71,93,68,84,40,45,Lenin,Skirt,954
+142,61,80,85,83,37,49,Cotton,Skirt,915
+160,52,108,67,81,42,50,Cotton,Frock,887
+168,42,82,75,107,49,54,Polyster,Punjabi Suits,959
+149,66,98,82,90,47,51,Organza,Skirt,1043
+167,62,96,69,75,46,56,Silk,Tunics,1016
+167,55,89,67,101,50,63,Silk,Tunics,1056
+161,44,97,74,80,46,57,Polyster,Short Kurtis,904
+148,61,97,97,106,48,46,Lenin,Punjabi Suits,1020
+173,79,73,67,91,47,64,Velvet,Frock,996
+156,59,97,95,110,42,64,Cotton,Saree,1026
+152,46,103,96,99,37,48,Silk,Tunics,1062
+142,63,75,79,102,40,59,Polyster,Short Kurtis,897
+168,77,96,84,83,37,59,Polyster,Tunics,957
+148,52,74,62,79,35,59,Silk,Frock,900
+159,60,107,85,98,49,59,Polyster,Tunics,1004
+165,44,91,74,108,40,50,Velvet,Punjabi Suits,1061
+159,46,103,67,83,45,45,Lenin,Saree,947
+175,42,81,92,92,41,48,Silk,Frock,984
+150,75,82,88,83,44,51,Cotton,Punjabi Suits,937
+175,80,92,78,90,44,48,Cotton,Tunics,963
+158,74,106,92,90,43,50,Velvet,Frock,1042
+145,74,96,97,101,42,61,Lenin,Tunics,1026
+180,66,81,90,81,35,55,Lenin,Punjabi Suits,967
+151,74,107,64,82,45,57,Polyster,Tunics,937
+161,70,84,87,79,50,48,Lenin,Saree,963
+150,42,78,75,95,36,53,Polyster,Saree,900
+154,72,88,91,106,42,47,Polyster,Short Kurtis,938
+167,75,70,87,75,49,53,Polyster,Saree,918
+146,61,105,81,84,43,65,Lenin,Frock,944
+170,71,89,62,100,48,56,Cotton,Saree,961
+174,41,82,100,81,45,61,Polyster,Frock,916
+160,55,91,96,107,40,53,Polyster,Frock,937
+178,46,106,86,89,39,46,Velvet,Skirt,1086
+165,62,104,61,75,43,57,Velvet,Tunics,1032
+154,62,85,80,84,47,58,Organza,Frock,965
+151,63,84,63,80,35,59,Silk,Frock,923
+166,66,91,72,100,39,54,Velvet,Skirt,1068
+141,71,89,94,93,37,48,Polyster,Tunics,938
+147,80,94,60,96,50,60,Polyster,Tunics,944
+163,47,73,64,93,44,45,Organza,Skirt,974
+161,69,85,75,75,48,57,Lenin,Punjabi Suits,951
+168,58,89,94,77,39,57,Cotton,Saree,957
+153,62,108,62,96,50,47,Cotton,Short Kurtis,927
+161,80,110,63,105,42,65,Velvet,Frock,1052
+165,52,84,91,84,41,60,Organza,Frock,979
+141,78,70,73,92,43,45,Silk,Skirt,983
+141,53,77,62,107,35,58,Lenin,Tunics,930
+171,60,79,83,76,39,58,Organza,Tunics,998
+144,45,104,80,99,49,62,Polyster,Short Kurtis,952
+150,66,75,87,78,45,52,Organza,Short Kurtis,957
+156,70,107,61,104,37,65,Velvet,Tunics,1079
+166,44,94,96,82,42,53,Polyster,Short Kurtis,928
+179,47,95,96,91,43,55,Organza,Short Kurtis,1038
+164,65,101,65,106,38,54,Velvet,Frock,1018
+170,53,100,94,98,35,47,Organza,Short Kurtis,1024
+146,66,79,76,88,35,61,Lenin,Frock,887
+171,70,71,65,85,50,61,Lenin,Short Kurtis,917
+157,56,83,70,91,36,52,Velvet,Skirt,1022
+173,51,110,98,77,43,63,Cotton,Punjabi Suits,1011
+176,73,80,71,96,40,46,Silk,Frock,963
+160,66,81,84,78,37,48,Polyster,Punjabi Suits,901
+156,61,104,66,96,47,53,Velvet,Saree,1064
+173,49,78,60,80,49,50,Velvet,Skirt,1009
+155,70,73,63,99,38,63,Velvet,Skirt,1031
+179,74,104,91,107,38,57,Velvet,Short Kurtis,1101
+176,51,96,94,81,37,60,Lenin,Skirt,1009
+154,67,99,76,92,50,57,Organza,Saree,1046
+154,74,94,71,77,38,55,Cotton,Short Kurtis,890
+147,66,92,94,77,45,45,Polyster,Tunics,929
+160,72,85,83,84,39,57,Velvet,Punjabi Suits,1043
+177,78,91,72,83,43,60,Organza,Tunics,1029
+154,74,78,81,79,48,65,Polyster,Skirt,944
+172,64,85,62,104,48,65,Organza,Punjabi Suits,1044
+178,49,77,82,78,42,45,Velvet,Short Kurtis,984
+174,80,102,64,103,42,54,Cotton,Short Kurtis,952
+144,78,96,61,105,50,61,Polyster,Tunics,960
+144,57,102,81,96,38,61,Organza,Tunics,1042
+166,55,85,68,81,49,60,Velvet,Tunics,1035
+158,44,95,72,99,35,49,Cotton,Punjabi Suits,936
+148,74,105,97,78,40,63,Velvet,Frock,1037
+164,58,73,85,87,46,46,Lenin,Skirt,955
+162,76,110,84,88,46,46,Polyster,Short Kurtis,945
+164,50,106,63,76,43,45,Polyster,Skirt,917
+143,69,76,72,109,37,57,Cotton,Short Kurtis,904
+174,52,105,80,91,46,46,Polyster,Short Kurtis,938
+161,51,73,86,92,39,61,Silk,Frock,972
+162,52,85,96,103,41,57,Organza,Punjabi Suits,1060
+170,63,75,78,92,38,55,Lenin,Tunics,953
+159,60,76,98,104,36,58,Organza,Skirt,1055
+162,41,107,100,109,46,46,Organza,Frock,1045
+163,76,77,81,103,38,58,Organza,Tunics,1030
+166,71,106,99,77,44,59,Polyster,Short Kurtis,963
+180,57,101,61,77,44,49,Organza,Punjabi Suits,1000
+170,55,86,85,80,41,45,Lenin,Frock,899
+165,40,103,83,89,45,47,Velvet,Frock,1016
+146,46,92,100,83,46,51,Silk,Skirt,1051
+141,54,71,98,90,40,56,Velvet,Punjabi Suits,1034
+174,75,78,98,103,41,59,Silk,Tunics,1081
+176,44,84,91,101,39,54,Silk,Punjabi Suits,1058
+143,69,70,62,75,41,58,Lenin,Short Kurtis,856
+150,78,73,96,96,47,57,Lenin,Tunics,989
+180,47,79,89,91,37,59,Organza,Skirt,1041
+154,51,100,79,94,47,55,Organza,Frock,993
+164,47,81,72,105,50,64,Lenin,Saree,995
+160,52,82,72,81,44,49,Polyster,Tunics,897
+156,58,72,94,102,36,54,Polyster,Tunics,941
+156,53,90,66,97,36,53,Velvet,Punjabi Suits,1025
+156,66,70,64,109,37,47,Cotton,Short Kurtis,877
+148,66,96,96,92,49,50,Silk,Skirt,1075
+174,68,77,91,101,40,50,Polyster,Tunics,959
+147,57,106,66,75,47,64,Cotton,Punjabi Suits,944
+177,79,82,78,105,50,46,Polyster,Tunics,967
+173,62,107,93,94,35,52,Organza,Skirt,1079
+158,44,75,69,105,35,47,Organza,Punjabi Suits,978
+150,49,78,63,82,50,57,Lenin,Frock,872
+179,61,97,85,80,39,45,Cotton,Short Kurtis,921
+174,56,96,86,109,38,63,Silk,Saree,1095
+169,71,85,67,92,45,63,Velvet,Frock,1006
+170,54,73,100,85,49,62,Lenin,Saree,997
+175,61,81,71,99,47,45,Velvet,Punjabi Suits,1044
+177,53,93,71,83,45,53,Organza,Saree,1016
+149,55,97,78,94,35,53,Polyster,Short Kurtis,903
+161,67,70,87,104,37,52,Lenin,Short Kurtis,935
+159,79,91,83,104,42,52,Velvet,Punjabi Suits,1080
+179,46,76,91,108,41,60,Silk,Saree,1072
+144,51,88,98,86,45,58,Organza,Tunics,1035
+151,67,107,91,100,38,52,Lenin,Punjabi Suits,1015
+170,63,89,72,86,43,48,Velvet,Punjabi Suits,1033
+178,63,103,77,82,40,65,Polyster,Skirt,982
+167,50,99,66,92,50,56,Organza,Skirt,1044
+175,70,85,71,96,42,50,Organza,Short Kurtis,988
+172,79,82,73,87,43,57,Velvet,Short Kurtis,1015
+168,62,89,66,107,42,56,Polyster,Saree,954
+175,41,72,78,93,44,64,Lenin,Frock,920
+147,80,82,88,80,42,52,Silk,Tunics,1010
+163,69,86,93,78,43,57,Lenin,Short Kurtis,948
+178,49,91,92,110,38,55,Polyster,Frock,947
+156,66,88,92,94,41,47,Organza,Punjabi Suits,1029
+163,62,110,83,94,47,49,Cotton,Punjabi Suits,995
+176,57,88,83,91,47,62,Cotton,Short Kurtis,955
+147,68,71,82,87,50,61,Lenin,Short Kurtis,927
+155,72,72,95,100,43,52,Cotton,Tunics,960
+162,80,85,71,104,36,49,Cotton,Skirt,953
+166,63,92,65,92,40,50,Cotton,Frock,881
+145,75,93,90,95,48,60,Organza,Short Kurtis,1030
+175,74,94,91,85,45,45,Polyster,Tunics,963
+174,58,70,89,108,49,53,Velvet,Punjabi Suits,1081
+157,80,77,71,101,47,63,Velvet,Saree,1060
+175,46,110,71,95,36,60,Silk,Saree,1063
+177,78,73,93,91,48,54,Polyster,Tunics,964
+175,48,93,61,104,44,56,Cotton,Frock,912
+151,53,95,76,83,45,46,Cotton,Punjabi Suits,926
+158,67,104,87,108,46,49,Polyster,Skirt,1009
+140,75,87,96,75,42,64,Lenin,Tunics,973
+177,52,110,70,93,46,52,Polyster,Saree,974
+166,69,83,97,95,38,51,Lenin,Frock,941
+166,58,90,93,88,39,58,Velvet,Short Kurtis,1043
+178,45,89,77,89,43,54,Polyster,Tunics,945
+170,78,109,84,108,37,63,Lenin,Saree,1052
+174,45,70,67,82,46,63,Silk,Punjabi Suits,996
+146,73,80,65,94,48,52,Polyster,Saree,909
+152,68,97,78,77,45,50,Velvet,Punjabi Suits,1034
+150,71,92,92,87,35,51,Lenin,Saree,969
+153,79,93,64,78,45,53,Velvet,Short Kurtis,987
+166,55,85,83,96,36,64,Polyster,Skirt,967
+141,65,74,83,98,35,54,Polyster,Tunics,911
+163,55,110,84,81,48,46,Lenin,Frock,942
+164,71,110,60,105,43,51,Silk,Skirt,1067
+174,61,77,69,83,40,59,Silk,Punjabi Suits,1000
+175,44,108,77,89,37,57,Polyster,Skirt,976
+169,40,100,76,84,36,64,Organza,Saree,1028
+149,61,85,82,76,50,61,Organza,Short Kurtis,981
+170,41,93,92,106,38,59,Organza,Punjabi Suits,1071
+146,47,110,90,82,50,57,Lenin,Frock,957
+141,72,78,66,110,50,55,Velvet,Saree,1045
+161,71,81,72,110,49,58,Lenin,Short Kurtis,967
+154,76,110,92,78,38,52,Velvet,Punjabi Suits,1073
+180,68,103,76,109,37,62,Polyster,Tunics,1005
+146,55,87,60,109,47,45,Organza,Frock,948
+176,77,107,71,99,47,65,Polyster,Tunics,1008
+156,76,72,71,76,35,48,Polyster,Skirt,872
+141,49,72,73,77,35,50,Polyster,Short Kurtis,820
+169,48,97,83,94,36,48,Silk,Saree,1038
+167,49,79,100,75,46,55,Organza,Skirt,1032
+175,56,92,82,85,45,47,Cotton,Frock,904
+144,80,106,64,105,47,63,Silk,Short Kurtis,1039
+152,60,89,68,96,41,46,Organza,Frock,942
+168,59,78,60,94,45,48,Polyster,Short Kurtis,871
+157,73,99,99,100,47,65,Organza,Short Kurtis,1074
+152,41,100,61,105,47,46,Cotton,Tunics,944
+148,72,108,99,81,37,63,Polyster,Skirt,994
+165,63,106,64,79,37,51,Cotton,Skirt,938
+151,65,90,83,100,35,57,Cotton,Short Kurtis,930
+152,75,95,77,108,41,50,Silk,Short Kurtis,1023
+167,71,99,92,87,46,50,Silk,Tunics,1067
+154,71,96,68,102,44,52,Organza,Tunics,1029
+177,45,70,73,92,39,51,Lenin,Skirt,943
+168,55,84,68,100,49,52,Silk,Frock,982
+177,76,79,61,81,50,55,Lenin,Skirt,954
+149,54,92,80,105,46,60,Organza,Skirt,1062
+156,55,91,97,106,40,50,Velvet,Frock,1039
+145,44,105,91,104,35,53,Velvet,Frock,1033
+158,45,82,73,87,39,60,Cotton,Short Kurtis,893
+175,59,106,87,104,49,65,Cotton,Tunics,1045
+145,52,95,70,105,48,62,Velvet,Frock,1024
+170,76,76,90,77,35,51,Silk,Frock,953
+156,40,102,86,76,49,51,Lenin,Tunics,975
+178,80,80,76,102,40,47,Lenin,Frock,925
+144,68,105,62,110,47,61,Polyster,Short Kurtis,945
+157,74,73,78,78,37,60,Cotton,Tunics,908
+174,77,88,86,80,36,48,Silk,Punjabi Suits,1020
+141,46,96,87,93,38,54,Velvet,Saree,1051
+152,78,82,100,107,42,61,Organza,Saree,1075
+178,63,93,97,109,46,57,Lenin,Saree,1055
+175,57,84,77,96,44,55,Organza,Tunics,1032
+147,63,96,63,102,41,61,Lenin,Punjabi Suits,973
+171,75,96,88,77,39,55,Lenin,Saree,983
+157,44,87,78,78,42,54,Velvet,Saree,1019
+176,61,83,81,108,46,55,Organza,Tunics,1059
+180,66,85,94,103,46,51,Polyster,Punjabi Suits,993
+148,78,89,61,77,40,46,Velvet,Saree,983
+161,79,92,80,84,36,59,Lenin,Saree,970
+155,80,78,98,96,50,65,Velvet,Frock,1050
+169,76,78,85,77,37,50,Cotton,Short Kurtis,890
+170,69,81,95,106,47,52,Velvet,Tunics,1099
+147,73,73,91,108,41,60,Cotton,Frock,921
+149,71,83,78,106,45,62,Silk,Skirt,1064
+170,76,101,72,90,47,46,Silk,Short Kurtis,1014
+149,44,83,60,89,47,61,Lenin,Punjabi Suits,934
+144,68,94,74,95,36,58,Organza,Tunics,1013
+156,45,94,99,76,44,61,Lenin,Short Kurtis,961
+160,54,96,86,93,35,49,Organza,Saree,1024
+153,54,107,61,95,44,47,Velvet,Saree,1041
+179,75,88,89,89,45,61,Silk,Saree,1074
+176,73,78,93,88,45,53,Organza,Tunics,1039
+157,56,70,75,89,38,49,Polyster,Skirt,896
+148,44,75,60,97,43,53,Silk,Skirt,986
+152,52,70,68,77,41,49,Polyster,Punjabi Suits,857
+161,60,85,75,91,45,46,Organza,Skirt,1011
+152,70,89,82,109,37,47,Cotton,Frock,911
+160,57,70,83,110,47,49,Cotton,Punjabi Suits,955
+172,73,73,96,81,49,62,Organza,Frock,992
+157,56,86,99,87,37,54,Lenin,Skirt,989
+153,77,78,68,88,39,59,Polyster,Frock,855
+144,51,108,65,98,36,57,Organza,Frock,969
+142,47,82,90,98,42,58,Lenin,Skirt,985
+173,71,88,84,90,46,48,Lenin,Frock,935
+151,42,82,87,75,35,47,Polyster,Short Kurtis,854
+178,64,100,78,97,36,65,Cotton,Punjabi Suits,996
+178,80,82,62,86,37,51,Cotton,Saree,914
+156,41,79,99,76,42,49,Lenin,Frock,896
+174,71,96,66,78,40,50,Organza,Frock,946
+171,63,71,60,98,43,61,Lenin,Punjabi Suits,946
+157,78,70,85,90,35,56,Cotton,Punjabi Suits,925
+180,63,107,81,88,41,45,Cotton,Punjabi Suits,976
+174,73,107,100,87,48,46,Polyster,Skirt,1014
+167,51,104,94,89,47,53,Velvet,Skirt,1111
+150,52,91,92,81,49,63,Lenin,Frock,942
+146,70,74,63,98,35,61,Silk,Punjabi Suits,987
+153,59,87,69,76,50,58,Velvet,Short Kurtis,992
+143,78,93,60,87,46,57,Organza,Skirt,1005
+177,63,70,74,80,47,50,Lenin,Frock,883
+142,56,107,80,80,47,50,Polyster,Skirt,949
+144,79,94,67,103,43,65,Velvet,Skirt,1079
+169,48,85,74,75,36,62,Polyster,Punjabi Suits,909
+141,71,105,100,83,47,50,Organza,Short Kurtis,1024
+173,73,79,81,83,35,61,Velvet,Tunics,1040
+171,65,77,69,93,35,59,Velvet,Short Kurtis,997
+169,53,72,73,103,37,45,Polyster,Tunics,907
+147,42,97,65,110,35,45,Silk,Saree,1010
+160,60,93,71,101,43,45,Velvet,Frock,997
+159,53,88,85,76,41,65,Cotton,Skirt,957
+150,41,101,86,79,41,57,Lenin,Frock,920
+153,79,103,86,79,40,51,Silk,Frock,986
+156,78,70,90,106,46,63,Cotton,Skirt,992
+140,40,94,64,106,49,48,Cotton,Frock,888
+169,51,105,74,93,48,59,Silk,Skirt,1080
+175,64,80,61,105,48,46,Organza,Saree,1010
+162,76,88,99,102,44,63,Velvet,Punjabi Suits,1118
+169,79,83,99,96,45,51,Lenin,Skirt,1021
+142,55,81,97,87,43,52,Lenin,Frock,913
+161,72,75,80,102,49,49,Polyster,Punjabi Suits,944
+157,60,84,89,104,49,53,Organza,Skirt,1064
+171,79,81,70,80,47,63,Silk,Punjabi Suits,1023
+167,79,71,72,82,42,61,Lenin,Tunics,940
+179,64,101,74,110,37,63,Velvet,Frock,1060
+152,59,87,94,94,48,55,Silk,Short Kurtis,1028
+156,74,99,75,91,45,53,Silk,Punjabi Suits,1043
+154,66,110,99,110,50,57,Silk,Short Kurtis,1104
+173,69,79,80,88,47,48,Lenin,Frock,913
+179,52,107,91,86,39,53,Organza,Frock,1013
+159,74,78,91,75,35,49,Lenin,Frock,883
+158,52,98,93,103,39,52,Lenin,Short Kurtis,981
+165,80,109,99,97,50,55,Organza,Short Kurtis,1082
+175,64,75,78,92,47,65,Polyster,Frock,905
+174,57,101,81,83,40,64,Velvet,Tunics,1081
+147,44,80,88,86,44,51,Cotton,Tunics,926
+168,65,108,72,97,39,62,Organza,Tunics,1062
+141,80,88,80,81,44,55,Organza,Punjabi Suits,1001
+147,48,72,73,98,50,53,Cotton,Frock,873
+145,50,105,89,78,35,50,Lenin,Short Kurtis,929
+170,43,84,98,110,35,55,Organza,Frock,1013
+149,41,83,92,99,48,59,Organza,Frock,995
+159,58,82,83,81,43,59,Lenin,Short Kurtis,928
+150,76,91,87,83,35,46,Silk,Short Kurtis,978
+179,53,77,60,89,39,64,Velvet,Frock,973
+165,77,81,94,81,43,52,Velvet,Punjabi Suits,1053
+153,75,86,90,79,48,47,Silk,Skirt,1032
+179,73,80,67,105,36,61,Lenin,Punjabi Suits,979
+164,47,95,79,89,40,52,Polyster,Saree,939
+144,48,71,63,106,41,57,Velvet,Short Kurtis,979
+153,52,70,61,100,43,61,Cotton,Saree,912
+165,60,103,71,91,45,53,Silk,Skirt,1056
+149,54,101,98,100,39,53,Cotton,Punjabi Suits,994
+169,43,102,100,98,44,53,Polyster,Tunics,1005
+176,43,94,91,96,43,48,Velvet,Punjabi Suits,1082
+155,47,79,80,96,41,52,Velvet,Frock,982
+146,60,78,84,87,48,46,Organza,Saree,992
+170,71,93,82,106,42,48,Velvet,Skirt,1095
+148,72,76,83,99,50,65,Silk,Saree,1052
+178,47,80,60,89,50,58,Cotton,Punjabi Suits,933
+142,57,88,96,99,35,55,Velvet,Saree,1063
+142,54,84,78,93,49,61,Silk,Tunics,1030
+151,51,97,62,88,38,57,Lenin,Punjabi Suits,941
+161,60,87,73,104,48,61,Velvet,Frock,1028
+172,64,107,76,102,37,53,Velvet,Short Kurtis,1060
+168,56,103,65,86,45,62,Organza,Punjabi Suits,1034
+163,53,78,94,103,50,63,Lenin,Short Kurtis,990
+143,78,96,81,94,48,51,Polyster,Skirt,965
+179,42,91,91,97,49,56,Lenin,Saree,1022
+140,45,80,83,109,38,62,Velvet,Skirt,1066
+162,74,79,61,85,43,48,Cotton,Short Kurtis,867
+147,75,74,69,94,36,59,Velvet,Frock,960
+153,45,92,93,81,42,50,Cotton,Tunics,945
+166,68,93,66,75,48,48,Cotton,Short Kurtis,889
+147,78,74,61,83,45,50,Velvet,Saree,983
+179,44,70,86,76,47,58,Polyster,Saree,922
+179,40,76,70,108,40,59,Silk,Frock,985
+156,71,107,99,91,38,48,Cotton,Tunics,992
+146,51,96,74,78,44,53,Velvet,Frock,972
+159,60,110,62,77,36,49,Velvet,Punjabi Suits,1018
+164,65,80,93,106,47,47,Organza,Skirt,1062
+148,67,105,96,77,47,62,Lenin,Short Kurtis,981
+164,56,86,95,91,40,54,Organza,Skirt,1048
+176,80,103,69,104,36,51,Lenin,Saree,1000
+140,72,75,67,110,50,61,Lenin,Frock,921
+144,52,110,89,97,50,52,Lenin,Punjabi Suits,1020
+159,45,89,72,108,47,45,Organza,Saree,1024
+178,57,73,72,106,40,53,Lenin,Skirt,976
+156,75,100,87,91,50,53,Lenin,Saree,1011
+153,77,108,92,94,40,57,Organza,Frock,1024
+152,47,82,71,84,50,45,Cotton,Punjabi Suits,906
+150,53,85,66,102,50,54,Velvet,Punjabi Suits,1043
+146,64,92,89,100,47,46,Polyster,Punjabi Suits,959
+175,51,78,99,83,47,60,Silk,Punjabi Suits,1057
+145,44,74,79,103,50,49,Cotton,Frock,884
+153,67,83,96,91,44,50,Organza,Punjabi Suits,1030
+169,79,98,83,95,49,55,Silk,Tunics,1080
+153,74,98,65,96,42,59,Cotton,Tunics,956
+149,40,72,97,77,46,60,Silk,Saree,1011
+147,73,99,84,107,49,52,Polyster,Frock,938
+145,56,81,81,94,47,47,Organza,Frock,950
+168,43,102,86,86,47,61,Polyster,Saree,981
+153,50,104,92,91,50,51,Lenin,Frock,961
+142,50,84,80,87,41,60,Cotton,Tunics,929
+146,79,92,78,92,40,53,Silk,Skirt,1035
+172,75,89,86,104,41,47,Polyster,Tunics,972
+151,52,72,90,94,39,52,Velvet,Saree,1029
+150,61,100,69,94,49,58,Organza,Short Kurtis,1005
+146,45,98,97,92,36,54,Silk,Punjabi Suits,1048
+156,43,76,93,101,35,62,Velvet,Frock,1010
+149,64,100,88,97,42,59,Organza,Tunics,1059
+142,74,74,81,93,49,63,Velvet,Frock,998
+162,80,71,66,108,45,60,Organza,Tunics,1020
+154,61,75,68,94,44,56,Cotton,Saree,919
+160,57,82,92,103,38,53,Lenin,Frock,939
+146,43,71,60,89,38,63,Lenin,Short Kurtis,873
+168,73,84,69,101,35,64,Organza,Skirt,1037
+140,52,74,74,106,41,45,Organza,Tunics,980
+160,44,76,85,104,46,60,Velvet,Skirt,1079
+170,57,97,89,109,44,61,Polyster,Tunics,1014
+159,60,73,96,107,49,58,Cotton,Tunics,991
+156,70,85,63,94,36,45,Organza,Saree,972
+172,79,87,95,106,46,50,Cotton,Saree,1008
+161,62,81,78,77,40,61,Polyster,Tunics,914
+159,68,84,64,99,39,65,Velvet,Frock,996
+141,72,97,63,106,40,50,Cotton,Tunics,941
+172,58,99,92,81,47,62,Lenin,Tunics,1017
+151,40,100,100,96,39,48,Cotton,Frock,929
+152,71,88,88,90,43,46,Lenin,Skirt,977
+169,49,82,64,79,48,55,Lenin,Frock,883
+143,43,95,80,109,47,65,Velvet,Skirt,1104
+141,70,105,98,75,46,52,Organza,Short Kurtis,1010
+160,41,85,61,77,49,53,Organza,Skirt,979
+145,59,94,61,108,43,51,Polyster,Frock,881
+145,51,103,76,106,35,61,Silk,Skirt,1065
+179,68,77,97,109,38,48,Cotton,Short Kurtis,958
+162,44,81,73,83,40,59,Lenin,Saree,938
+170,61,103,91,98,48,63,Polyster,Skirt,1030
+174,77,107,64,93,38,49,Velvet,Skirt,1070
+160,52,106,92,96,38,54,Organza,Frock,1014
+176,75,96,78,89,45,46,Velvet,Saree,1065
+154,40,88,95,110,46,48,Polyster,Frock,928
+144,53,97,89,96,49,51,Lenin,Saree,996
+153,46,73,88,95,46,50,Polyster,Tunics,926
+157,74,97,78,79,35,64,Lenin,Frock,919
+160,56,75,96,82,41,56,Organza,Short Kurtis,981
+169,43,90,95,79,39,65,Velvet,Short Kurtis,1041
+156,71,76,95,89,43,48,Silk,Tunics,1024
+177,59,93,71,89,47,56,Velvet,Frock,1014
+168,43,84,82,90,47,61,Polyster,Tunics,954
+158,46,79,66,81,40,50,Velvet,Skirt,996
+145,72,80,79,78,43,49,Organza,Short Kurtis,943
+160,58,80,67,97,42,59,Velvet,Frock,984
+159,65,105,99,88,43,60,Polyster,Punjabi Suits,1001
+176,55,101,67,86,46,53,Organza,Short Kurtis,998
+167,61,75,72,94,46,58,Polyster,Punjabi Suits,931
+143,46,93,93,77,48,56,Organza,Punjabi Suits,1021
+156,71,84,79,104,41,56,Lenin,Punjabi Suits,984
+155,50,85,95,76,40,49,Velvet,Skirt,1038
+154,59,109,70,92,45,65,Polyster,Tunics,974
+175,46,79,98,99,50,65,Velvet,Saree,1111
+164,72,82,62,83,39,55,Velvet,Short Kurtis,976
+155,78,76,100,87,44,55,Lenin,Frock,932
+163,45,99,89,82,39,65,Polyster,Short Kurtis,936
+159,69,72,81,98,48,55,Silk,Short Kurtis,1000
+156,78,83,68,83,42,52,Lenin,Skirt,942
+160,65,98,76,102,44,57,Velvet,Frock,1035
+176,55,106,87,100,50,56,Polyster,Short Kurtis,987
+170,46,78,73,109,45,46,Velvet,Punjabi Suits,1047
+172,49,74,64,96,43,45,Velvet,Skirt,1016
+140,55,89,71,102,50,52,Silk,Saree,1027
+177,47,95,71,83,38,64,Polyster,Saree,943
+155,65,79,79,76,40,60,Organza,Tunics,986
+144,56,92,71,106,46,54,Polyster,Saree,948
+165,74,91,99,104,50,52,Silk,Skirt,1109
+163,42,75,86,92,42,60,Cotton,Saree,947
+177,67,75,99,90,45,54,Organza,Punjabi Suits,1047
+148,49,94,98,103,42,64,Lenin,Saree,1027
+161,64,88,90,91,49,63,Lenin,Punjabi Suits,1011
+146,76,86,96,79,45,58,Polyster,Frock,898
+155,49,70,62,101,41,56,Silk,Saree,985
+157,62,84,82,80,50,45,Lenin,Short Kurtis,917
+165,63,96,94,75,46,63,Cotton,Short Kurtis,953
+170,67,85,92,89,42,64,Silk,Frock,1015
+179,41,72,98,100,37,52,Organza,Punjabi Suits,1035
+154,75,108,89,105,49,47,Velvet,Short Kurtis,1085
+161,71,103,75,85,40,50,Organza,Frock,971
+151,46,76,83,99,50,47,Silk,Tunics,1019
+146,76,92,83,91,41,47,Polyster,Frock,883
+169,69,97,91,105,42,57,Lenin,Short Kurtis,1005
+166,62,80,69,92,36,60,Organza,Punjabi Suits,998
+173,67,76,97,90,38,59,Organza,Frock,989
+146,45,108,65,109,37,53,Cotton,Short Kurtis,931
+144,57,79,81,75,48,45,Silk,Skirt,987
+167,67,83,81,100,39,52,Polyster,Short Kurtis,917
+169,65,109,71,83,39,58,Organza,Tunics,1036
+150,68,71,62,81,48,53,Lenin,Saree,905
+170,58,76,82,109,42,51,Polyster,Short Kurtis,924
+149,43,107,81,79,40,59,Velvet,Tunics,1053
+161,52,94,94,97,45,52,Cotton,Short Kurtis,959
+140,40,93,60,94,44,54,Polyster,Tunics,904
+143,41,70,82,76,47,45,Velvet,Short Kurtis,949
+159,68,106,95,106,46,64,Polyster,Saree,1035
+174,50,107,99,99,45,54,Velvet,Frock,1081
+177,47,72,66,103,47,58,Organza,Short Kurtis,985
+175,79,107,66,91,45,61,Velvet,Tunics,1089
+168,70,74,78,86,39,59,Velvet,Skirt,1041
+154,76,96,92,78,50,49,Polyster,Short Kurtis,925
+141,78,84,64,89,44,59,Cotton,Tunics,919
+159,73,99,96,108,41,45,Polyster,Short Kurtis,964
+178,78,70,85,90,48,62,Organza,Tunics,1039
+158,42,70,66,93,45,65,Silk,Punjabi Suits,999
+151,80,77,73,108,50,48,Lenin,Punjabi Suits,971
+162,49,90,95,104,45,48,Cotton,Punjabi Suits,989
+162,66,83,81,105,50,48,Polyster,Saree,961
+149,42,110,93,103,46,61,Velvet,Short Kurtis,1093
+149,48,90,82,103,37,59,Velvet,Short Kurtis,1032
+178,48,95,100,79,35,49,Silk,Frock,994
+141,49,75,71,102,38,51,Lenin,Saree,925
+152,48,73,73,108,35,54,Organza,Skirt,1002
+167,56,93,100,90,46,57,Lenin,Tunics,1021
+161,75,104,85,105,42,52,Silk,Saree,1085
+161,77,72,71,79,50,64,Lenin,Tunics,947
+159,71,110,91,109,41,49,Silk,Skirt,1110
+175,68,80,77,81,38,47,Polyster,Skirt,916
+150,63,76,73,98,43,49,Lenin,Saree,939
