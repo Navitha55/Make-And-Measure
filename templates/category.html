@@ -1,0 +1,154 @@
+{% load static%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(#ffe7e7,rgb(248, 240, 240));
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            text-align: center;
+        }
+        header {
+            color:#ed477f;
+            padding: 20px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .title{
+            font-weight:900 ;
+            font-size: 60px;
+        }
+        .banner {
+            background: url('model-banner.jpg') no-repeat center center/cover;
+            color: #fff;
+            padding: 50px 0;
+        }
+        .shop-now {
+            background-color: #d32f2f;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .shop-now:hover {
+            background-color: #b71c1c;
+        }
+        .shop-now, .select-btn, .next-btn {
+            background-color: #ed477f;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .shop-now:hover, .select-btn:hover, .next-btn:hover {
+            background-color: #29ea39;
+        }
+        .model-gallery {
+            padding: 40px 0;
+        }
+        .model-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .model-card {
+            background: #fff;
+            margin: 15px;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+            width: 250px;
+            text-align: center;
+        }
+        .model-card img {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .next-section {
+            text-align: center;
+            margin: 30px 0;
+        }
+        .login{
+            color: blue;
+            text-align: center;
+            font-size:3cm;
+            font-weight: 400;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <span class="title">Models</span>
+            <marquee>Quality Models that are Never Out Of Style</marquee>
+        </div>
+    </header>
+    {% if user.is_authenticated %}
+    <section class="model-gallery">
+        <div class="container">
+        <form id="dressForm" action="{% url 'select_dress' %}" method="POST">
+        {% csrf_token %}
+        <input type="hidden" id="selectedDress" name="dress_type">
+            <div class="model-container">
+                <div class="model-card">
+                    <img src="{% static 'tunics.jpeg' %}" alt="Tunics">
+                    <p>Tunics</p>
+                    <button class="select-btn" onclick="selectDress('Tunics')">Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'suits.jpeg' %}" alt="Suits">
+                    <p>Punjabi suit</p>
+                    <button class="select-btn" onclick="selectDress('Punjabi Suits')">Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'skirt.jpeg'%}" alt="Skirt">
+                    <p>Frock</p>
+                    <button class="select-btn" onclick="selectDress('Frocks')"
+                    >Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'kurti.jpeg' %}" alt="kurtis">
+                    <p>Short Kurtis</p>
+                    <button class="select-btn" onclick="selectDress('Short Kurtis')">Select</button>
+                </div>
+                
+                <div class="model-card">
+                    <img src="{% static 'frock.jpeg' %}" alt="Shiny Satin">
+                    <p>Skirt</p>
+                    <button class="select-btn" onclick="selectDress('Skirts')">Select</button>
+                </div>
+                <div class="model-card">
+                    <img src="{% static 'saree.jpeg' %}" alt="Pure Cotton">
+                    <p>Saree</p>
+                    <button class="select-btn" onclick="selectDress('Saree')">Select</button>
+                </div>
+            </div>
+        </form>
+        </div>  
+    </section>
+    {% else %}
+    <p class="login">Login First</p>
+    {% endif%}
+</body>
+<script>
+  function selectDress(dress) {
+    document.getElementById('selectedDress').value = dress;
+    document.getElementById('dressForm').submit();
+  }
+</script>
+
+</html>
+
